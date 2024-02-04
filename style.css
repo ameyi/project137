@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    background-color: lightgrey;
+    color: blue !important  ;
+    font-weight: bolder !important;
+    margin: auto;
+}
+h1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+p{
+    font-size: 25px;
+    font-weight: bolder;
+}
+canvas{
+    border: 5px solid cyan;
+    box-shadow: 5px 5px 5px solid orangered;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 0;
+}
